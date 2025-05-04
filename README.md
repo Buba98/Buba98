@@ -14,5 +14,7 @@ I'm a cybersecurity engineer with a passion for secure systems and low-level pro
 ## My Skills 🛠️
 
 Programming Languages: C, C++, Python, Java, Bash, Dart, JavaScript, Assembly (x86/ARM), SQL, NoSQL
+
 Framework and Tools:  GDB, eBPF, Git, Ghidra, Linux, Ansible, Flutter, Spring, React, Arduino
+
 Languages: Italian (Native), English (C1)
